@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🖥️ Técnico em Rede de Computadores pela ETE Epitácio Pessoa<br>⚗️ Técnico em Química pelo IFPE<br>⌛ Estudando ADS pela UNINTER<br>📚 Esdudando Java, SpringBoot, criação de API REST, Docker e PostgreSQL<br>🎯 Objetivo: Se tornar um Desenvolvedor Java back-end<br>🎲 Fato Curioso: Sempre fui apaixonado por games, então tenho uns projetos básicos de jogos em Python e GODOT</p>
+<p align="left">🖥️ Técnico em Rede de Computadores pela ETE Epitácio Pessoa<br>⚗️ Técnico em Química pelo IFPE<br>⌛ Estudando ADS pela UNINTER<br>📚 Esdudando Java, SpringBoot, criação de API REST, HTML, CSS e JS<br>🎯 Objetivo: Se tornar um Desenvolvedor Java back-end<br>🎲 Fato Curioso: Sempre fui apaixonado por games, então tenho uns projetos básicos de jogos em Python e GODOT</p>
 
 ###
 
@@ -23,11 +23,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="python logo"  />
+  
 </div>
 
 ###
