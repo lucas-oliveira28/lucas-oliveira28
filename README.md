@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Estou migrando de carreira para trabalhar com o que sempre gostei. Estou focando meus estudos em Java para me tornar um futuro Dev Back-end com foco em Java.</p>
+<p align="left">Estou migrando de carreira para trabalhar com o que sempre gostei. Estou focando meus estudos em Java para me tornar um futuro Dev Backend.</p>
 
 ###
 
@@ -10,15 +10,15 @@
 
 ###
 
-<p align="left">🖥️ Técnico em Rede de Computadores pela ETE Epitácio Pessoa<br>⚗️ Técnico em Química pelo IFPE<br>⌛ Estudando ADS pela UNINTER<br>📚 Estudando Java, SpringBoot e criação de CRUD e API<br>🎯 Objetivo: Se tornar um Desenvolvedor Java Back-end<br>🎲 Fato Curioso: Sempre fui apaixonado por games, então tenho uns projetos básicos de jogos em Python e GODOT</p>
+<p align="left">🖥️ Técnico em Rede de Computadores pela ETE Epitácio Pessoa<br>⚗️ Técnico em Química pelo IFPE<br>⌛ Estudando ADS pela UNINTER<br>📚 Estudando Java, SpringBoot e criação de CRUD e API<br>🎯 Objetivo: Se tornar um Desenvolvedor Java Backend<br>🎲 Fato Curioso: Sempre fui apaixonado por games, então tenho uns projetos básicos de jogos em Python e GODOT</p>
 
 ###
 
-<h2 align="left">📝 Eu programo em</h2>
+<h2 align="left">📝 Linguagens e ferramentas</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
@@ -30,6 +30,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
+
+###
+
+<h2 align="left">⌛ Em aprendizado</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
 
 ###
